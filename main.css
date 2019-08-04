@@ -29,3 +29,11 @@ div {
 .blue {
   border-top-color: blue;
 }
+
+.indigo {
+  border-top-color: purple;
+}
+
+.violet {
+  border-top-color: violet;
+}
