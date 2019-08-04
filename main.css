@@ -14,26 +14,26 @@ div {
   border-top-color: red;
 }
 
-.orange {
+#orange {
   border-top-color: orange;
 }
 
-.yellow {
+#yellow {
   border-top-color: yellow;
 }
 
-.green {
+#green {
   border-top-color: green;
 }
 
-.blue {
+#blue {
   border-top-color: blue;
 }
 
-.indigo {
+#indigo {
   border-top-color: purple;
 }
 
-.violet {
+#violet {
   border-top-color: violet;
 }
